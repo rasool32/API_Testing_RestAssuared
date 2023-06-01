@@ -1,7 +1,7 @@
 # API_Testing_RestAssuared
 This GitHub repository is dedicated to automating API testing using RestAssured, a powerful Java library for testing RESTful APIs. The repository provides a comprehensive set of code samples and resources to facilitate efficient and reliable API testing.
 
-Key Features:
+**Key Features:**
 
 Test Framework: The repository includes a robust and scalable test framework built around RESTAssured. The framework provides a structured approach for organizing test cases, test data, and utilities, allowing you to easily create and manage API tests.
 
